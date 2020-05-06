@@ -1,0 +1,6 @@
+com\amazan\product\ServletInitializer.class
+com\amazan\product\dao\ProductDao.class
+com\amazan\product\controller\ProductController.class
+com\amazan\product\model\Product.class
+com\amazan\product\ProductDetailsApplication.class
+com\amazan\product\service\ProductService.class
